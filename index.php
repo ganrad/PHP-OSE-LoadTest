@@ -38,7 +38,7 @@ $hostip = $_SERVER['SERVER_ADDR'];
 echo "<h2>This is Version-- ONE -- !</h2>";
 echo "<h2>Server/Host name: $hostname</h2>";
 echo "<h2>Server/Host IP: $hostip</h2>";
-echo "<h2>Version 1</h2>";
+echo "<h2>Version 2</h2>";
 echo "<h2>Elapsed time: $e_time (Seconds)</h2>";
 ?>   
 
