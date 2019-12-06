@@ -4,7 +4,7 @@
 
 <?php 
 /**
- * Calculate micro seconds
+ * Calculate micro seconds ***
  */
 function microtime_float() {
 	list($usec,$sec) = explode(" ", microtime());
